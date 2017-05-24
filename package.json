@@ -1,0 +1,21 @@
+{
+  "name": "mfp-api",
+  "version": "1.0.0",
+  "description": "Interfaces with the MyFitnessPal public rails app.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xplode/mfp-api.git"
+  },
+  "author": "xplode",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xplode/mfp-api/issues"
+  },
+  "homepage": "https://github.com/xplode/mfp-api#readme"
+}
